@@ -1,7 +1,5 @@
 # 🎤 AI Interview Preparation Assistant
 
-🔗 **Live Demo:** [https://ai-interview-preparation-hi3z.onrender.com](https://ai-interview-preparation-hi3z.onrender.com)
-
 A premium, interactive web application designed to help job seekers prepare for interviews through voice-activated mock interviews, tailored AI-generated questions, and comprehensive performance feedback.
 
 The application leverages the power of **Gemini 2.5 Flash** to extract resume details, generate hyper-relevant interview questions, evaluate answers in real-time, and create exhaustive feedback reports.
